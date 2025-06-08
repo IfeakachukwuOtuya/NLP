@@ -1,4 +1,4 @@
-# An interactive Streamlit web app that classifies customer reviews as **Positive 👍** or **Negative 👎** using advanced **Natural Language Processing (NLP)** and **Machine Learning (ML)** models.
+## An interactive Streamlit web app that classifies customer reviews as **Positive 👍** or **Negative 👎** using advanced **Natural Language Processing (NLP)** and **Machine Learning (ML)** models.
 
 ## 📌 Features
 
